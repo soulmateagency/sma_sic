@@ -1,4 +1,5 @@
-# sic
-Salsanana International Casting Python Project
+# SMA - SIC
+Soul Mate Agency / Salsanana International Casting Python Project
 
-**https://soulmateagency.github.io/sma_sic/top5_radar_chart.html**
+**Results**
+https://soulmateagency.github.io/sma_sic/top5_radar_chart.html
